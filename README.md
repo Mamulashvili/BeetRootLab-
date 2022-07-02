@@ -45,3 +45,7 @@ total        : 4
 passed       : 4
 duration     : 217ms
 ```
+
+# DB
+`mysql`
+DB_CONNECTION=mysql
